@@ -47,10 +47,14 @@ Tampilan lebih menarik dengan background berwarna, teks yang rapi, serta tombol 
 <img width="1920" height="1200" alt="Screenshot 2025-10-02 142854" src="https://github.com/user-attachments/assets/bbf5e259-664a-4e9d-b94c-31ed0016301a" />
 
 
+
+
 Tanpa CSS
 Tampilan halaman hanya menggunakan default HTML tanpa warna dan style tambahan.
 
 <img width="1920" height="1200" alt="Screenshot 2025-10-02 142757" src="https://github.com/user-attachments/assets/08082c58-a671-459b-8b19-232931fae250" />
+
+
 
 
 📖 Kesimpulan
