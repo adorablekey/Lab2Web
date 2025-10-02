@@ -1,9 +1,8 @@
 # Lab2Web
+# Nama : KEYSIA NURHAYATI BR PANJAITAN
+# Kelas : TI24.A4
+# Nim : 312410350
 
-
-📌 Judul
-
-CSS Internal dan Inline CSS
 
 🎯 Tujuan
 
@@ -14,7 +13,6 @@ CSS Internal dan Inline CSS
 
 
 3. Membuat halaman web sederhana dengan desain menggunakan CSS.
-
 
 
 🛠️ Langkah Pengerjaan
@@ -42,10 +40,10 @@ CSS Internal dan Inline CSS
 
 
 📷 Hasil
-<img width="1920" height="1200" alt="Screenshot 2025-10-02 142854" src="https://github.com/user-attachments/assets/bbf5e259-664a-4e9d-b94c-31ed0016301a" />
-
 Dengan CSS Internal & Inline
 Tampilan lebih menarik dengan background berwarna, teks yang rapi, serta tombol berwarna merah.
+
+<img width="1920" height="1200" alt="Screenshot 2025-10-02 142854" src="https://github.com/user-attachments/assets/bbf5e259-664a-4e9d-b94c-31ed0016301a" />
 
 
 Tanpa CSS
